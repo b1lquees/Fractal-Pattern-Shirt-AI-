@@ -58,7 +58,7 @@ python render_preview.py
 
 **Mandelbrot (full view + zoomed filament) and its matching Julia set:**
 
-![Mandelbrot and Julia set output](assets/hero.png)
+/images.png
 
 **Zooming toward the boundary, Julia set updating alongside:**
 
