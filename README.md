@@ -58,7 +58,9 @@ python render_preview.py
 
 **Mandelbrot (full view + zoomed filament) and its matching Julia set:**
 
-/images.png
+ <img width="360" height="360" alt="shirt_mockup" src="https://github.com/user-attachments/assets/2f4c0522-fb6e-474b-9bd4-c7094e942ee8" />
+
+
 
 **Zooming toward the boundary, Julia set updating alongside:**
 
